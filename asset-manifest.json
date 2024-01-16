@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.7e36b2ad.css",
-    "main.js": "/react-gh-pages/static/js/main.475f633e.js",
-    "static/js/787.11397927.chunk.js": "/react-gh-pages/static/js/787.11397927.chunk.js",
-    "static/media/bruschetta1.jpg": "/react-gh-pages/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
-    "static/media/salad.jpg": "/react-gh-pages/static/media/salad.00b1567f5a694e5c3945.jpg",
-    "static/media/creme.jpg": "/react-gh-pages/static/media/creme.3a9eaace5be031d2d7a0.jpg",
-    "static/media/gourmet.jpg": "/react-gh-pages/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
-    "static/media/logo.jpg": "/react-gh-pages/static/media/logo.7aa41df0270b68cbabda.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.7e36b2ad.css.map": "/react-gh-pages/static/css/main.7e36b2ad.css.map",
-    "main.475f633e.js.map": "/react-gh-pages/static/js/main.475f633e.js.map",
-    "787.11397927.chunk.js.map": "/react-gh-pages/static/js/787.11397927.chunk.js.map"
+    "main.css": "/little-lemon/static/css/main.7e36b2ad.css",
+    "main.js": "/little-lemon/static/js/main.cbe01313.js",
+    "static/js/787.11397927.chunk.js": "/little-lemon/static/js/787.11397927.chunk.js",
+    "static/media/bruschetta1.jpg": "/little-lemon/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
+    "static/media/salad.jpg": "/little-lemon/static/media/salad.00b1567f5a694e5c3945.jpg",
+    "static/media/creme.jpg": "/little-lemon/static/media/creme.3a9eaace5be031d2d7a0.jpg",
+    "static/media/gourmet.jpg": "/little-lemon/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
+    "static/media/logo.jpg": "/little-lemon/static/media/logo.7aa41df0270b68cbabda.jpg",
+    "index.html": "/little-lemon/index.html",
+    "main.7e36b2ad.css.map": "/little-lemon/static/css/main.7e36b2ad.css.map",
+    "main.cbe01313.js.map": "/little-lemon/static/js/main.cbe01313.js.map",
+    "787.11397927.chunk.js.map": "/little-lemon/static/js/787.11397927.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e36b2ad.css",
-    "static/js/main.475f633e.js"
+    "static/js/main.cbe01313.js"
   ]
 }
