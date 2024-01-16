@@ -2,7 +2,7 @@
   "name": "little-lemon-my-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://NKevlar.github.io/little-lemon",
+  "homepage": "https://NKevlar.github.io/little-lemon/",
   "dependencies": {
     "@hookform/resolvers": "^3.0.0",
     "@testing-library/jest-dom": "^5.16.5",
