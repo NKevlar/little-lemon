@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/little-lemon/static/css/main.7e36b2ad.css",
-    "main.js": "/little-lemon/static/js/main.cbe01313.js",
-    "static/js/787.11397927.chunk.js": "/little-lemon/static/js/787.11397927.chunk.js",
-    "static/media/bruschetta1.jpg": "/little-lemon/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
-    "static/media/salad.jpg": "/little-lemon/static/media/salad.00b1567f5a694e5c3945.jpg",
-    "static/media/creme.jpg": "/little-lemon/static/media/creme.3a9eaace5be031d2d7a0.jpg",
-    "static/media/gourmet.jpg": "/little-lemon/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
-    "static/media/logo.jpg": "/little-lemon/static/media/logo.7aa41df0270b68cbabda.jpg",
-    "index.html": "/little-lemon/index.html",
-    "main.7e36b2ad.css.map": "/little-lemon/static/css/main.7e36b2ad.css.map",
-    "main.cbe01313.js.map": "/little-lemon/static/js/main.cbe01313.js.map",
-    "787.11397927.chunk.js.map": "/little-lemon/static/js/787.11397927.chunk.js.map"
+    "main.css": "/little-lem/static/css/main.7e36b2ad.css",
+    "main.js": "/little-lem/static/js/main.8e0a3ad9.js",
+    "static/js/787.11397927.chunk.js": "/little-lem/static/js/787.11397927.chunk.js",
+    "static/media/bruschetta1.jpg": "/little-lem/static/media/bruschetta1.02db8bb7aecd0a390e40.jpg",
+    "static/media/salad.jpg": "/little-lem/static/media/salad.00b1567f5a694e5c3945.jpg",
+    "static/media/creme.jpg": "/little-lem/static/media/creme.3a9eaace5be031d2d7a0.jpg",
+    "static/media/gourmet.jpg": "/little-lem/static/media/gourmet.0ff5cb7910f43c4d0a52.jpg",
+    "static/media/logo.jpg": "/little-lem/static/media/logo.7aa41df0270b68cbabda.jpg",
+    "index.html": "/little-lem/index.html",
+    "main.7e36b2ad.css.map": "/little-lem/static/css/main.7e36b2ad.css.map",
+    "main.8e0a3ad9.js.map": "/little-lem/static/js/main.8e0a3ad9.js.map",
+    "787.11397927.chunk.js.map": "/little-lem/static/js/787.11397927.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7e36b2ad.css",
-    "static/js/main.cbe01313.js"
+    "static/js/main.8e0a3ad9.js"
   ]
 }
